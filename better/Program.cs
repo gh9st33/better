@@ -7,4 +7,4 @@ using SkiaSharp;
 
 Console.WriteLine("Hello, World!");
 
-SlotsOfVegas sov = new SlotsOfVegas("ripley.studio1@gmail.com", "C21h30o2");
+SlotsOfVegas sov = new SlotsOfVegas("email@email.com", "password");
